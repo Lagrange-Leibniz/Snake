@@ -2,7 +2,8 @@
 
 ## 架构图
 
-![image](https://user-images.githubusercontent.com/49686014/220091235-0d6113bc-9e0f-4292-8b82-c55c47779783.png)
+![image](https://user-images.githubusercontent.com/49686014/220091765-6d31537f-6093-439a-bb1b-ccde3826f3da.png)
+
 
 
 
