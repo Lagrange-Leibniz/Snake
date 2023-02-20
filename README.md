@@ -2,7 +2,9 @@
 
 ## 架构图
 
-![image-20230220190950222](C:\Users\top\AppData\Roaming\Typora\typora-user-images\image-20230220190950222.png)
+
+![image](https://user-images.githubusercontent.com/49686014/220091090-09df43e5-5234-4cae-b53d-29ffbbda0c12.png)
+
 
 ## 用到的知识
 
